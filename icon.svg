@@ -8,6 +8,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="100"
@@ -15,10 +16,22 @@
    viewBox="0 0 26.458333 26.458333"
    version="1.1"
    id="svg8"
-   sodipodi:docname="color_icon.svg"
+   sodipodi:docname="icon.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient848">
+      <stop
+         style="stop-color:#a2c837;stop-opacity:1"
+         offset="0"
+         id="stop844" />
+      <stop
+         style="stop-color:#0066ff;stop-opacity:1"
+         offset="1"
+         id="stop846" />
+    </linearGradient>
     <linearGradient
        id="linearGradient4611"
        osb:paint="solid">
@@ -27,6 +40,15 @@
          offset="0"
          id="stop4609" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient848"
+       id="linearGradient850"
+       x1="0"
+       y1="297"
+       x2="26.458334"
+       y2="270.54166"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -36,17 +58,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568542"
-     inkscape:cx="-21.013525"
-     inkscape:cy="38.723216"
+     inkscape:cx="19.368292"
+     inkscape:cy="45.794284"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1753"
-     inkscape:window-height="831"
-     inkscape:window-x="139"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:snap-nodes="true"
      inkscape:snap-grids="true"
      inkscape:snap-global="true">
@@ -82,7 +104,7 @@
            x="12.25"
            y="13" /></flowRegion><flowPara
          id="flowPara7790" /></flowRoot>    <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="fill:url(#linearGradient850);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        d="m 6.7639283,273.33684 v 5.29167 l 2.6458333,2.64583 v -5.29166 z m 2.6458333,7.9375 2.6458334,2.64584 c 0,0 2.253551,-0.001 3.819405,-1.47226 l -1.913062,-1.91306 c -0.782874,0.73436 -1.906343,0.73948 -1.906343,0.73948 z m 0.3798218,-3.85351 2.6458336,2.64584 h 2.645833 c 0,0 2.645832,-10e-6 2.645833,2.64583 1e-6,0.91995 -0.322192,1.51491 -0.739489,1.90634 l 1.913061,1.91307 c 0.833333,-0.78293 1.472262,-1.98141 1.472262,-3.81941 0,-5.29167 -5.318022,-5.24464 -5.318022,-5.24464 z m 0,5.29167 v 9.26042 h 2.6458336 v -3.96875 h 2.645833 l -2.645833,-2.64584 z"
        id="path7792"
        inkscape:connector-curvature="0" />
