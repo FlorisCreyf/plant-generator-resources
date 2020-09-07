@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="4.360cm" height="7.850cm" viewBox="14.575 14.975 4.360 7.850"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Layer: Background -->
+<g id="Background">
+<!-- Flowchart - Box -->
+<rect x="14.600" y="15.000" width="1.800" height="7.800" fill="#888888" stroke="#000000" stroke-width="0.050"  rx="0.000" />
+<!-- Standard - Line -->
+<line x1="18.900" y1="17.200" x2="15.900" y2="20.200" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10" stroke-linecap="round"/>
+<!-- Standard - Line -->
+<line x1="18.200" y1="16.600" x2="15.200" y2="19.600" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10" stroke-linecap="round"/>
+<!-- Standard - BezierLine -->
+<path stroke="#000000" fill="none" stroke-width="0.050"  d="M 18.900,17.200 C 17.200,18.900 16.400,19.800 16.400,21.600 "/>
+<!-- Standard - BezierLine -->
+<path stroke="#000000" fill="none" stroke-width="0.050"  stroke-linejoin="round" d="M 16.400,15.800 C 16.400,18.000 17.000,17.800 18.200,16.600 "/>
+<!-- Standard - Line -->
+<line x1="18.900" y1="17.200" x2="17.200" y2="18.900" stroke="#000000" stroke-width="0.050"  stroke-linejoin="round"/>
+<path stroke="#000000" fill="#000000" stroke-width="0.050"  d="M 18.900,17.200 C 18.927,17.227 18.927,17.280 18.900,17.306 C 18.873,17.333 18.820,17.333 18.794,17.306 C 18.767,17.280 18.767,17.227 18.794,17.200 C 18.820,17.173 18.873,17.173 18.900,17.200 z"/>
+<path stroke="#000000" fill="#000000" stroke-width="0.050"  d="M 17.200,18.900 C 17.173,18.873 17.173,18.820 17.200,18.794 C 17.227,18.767 17.280,18.767 17.306,18.794 C 17.333,18.820 17.333,18.873 17.306,18.900 C 17.280,18.927 17.227,18.927 17.200,18.900 z"/>
+<!-- Standard - Line -->
+<line x1="18.200" y1="16.600" x2="17.000" y2="17.800" stroke="#000000" stroke-width="0.050" />
+<path stroke="#000000" fill="#000000" stroke-width="0.050"  d="M 18.200,16.600 C 18.227,16.627 18.227,16.680 18.200,16.706 C 18.173,16.733 18.120,16.733 18.094,16.706 C 18.067,16.680 18.067,16.627 18.094,16.600 C 18.120,16.573 18.173,16.573 18.200,16.600 z"/>
+<path stroke="#000000" fill="#000000" stroke-width="0.050"  d="M 17.000,17.800 C 16.973,17.773 16.973,17.720 17.000,17.694 C 17.027,17.667 17.080,17.667 17.106,17.694 C 17.133,17.720 17.133,17.773 17.106,17.800 C 17.080,17.827 17.027,17.827 17.000,17.800 z"/>
+<!-- Standard - Line -->
+<line x1="16.400" y1="15.800" x2="16.400" y2="18.400" stroke="#000000" stroke-width="0.050" />
+<path stroke="#000000" fill="#000000" stroke-width="0.050"  d="M 16.400,15.800 C 16.438,15.800 16.475,15.838 16.475,15.875 C 16.475,15.912 16.438,15.950 16.400,15.950 C 16.362,15.950 16.325,15.912 16.325,15.875 C 16.325,15.838 16.362,15.800 16.400,15.800 z"/>
+<path stroke="#000000" fill="#000000" stroke-width="0.050"  d="M 16.400,18.400 C 16.362,18.400 16.325,18.363 16.325,18.325 C 16.325,18.287 16.362,18.250 16.400,18.250 C 16.438,18.250 16.475,18.287 16.475,18.325 C 16.475,18.363 16.438,18.400 16.400,18.400 z"/>
+<!-- Standard - Line -->
+<line x1="16.400" y1="19.700" x2="16.400" y2="21.600" stroke="#000000" stroke-width="0.050" />
+<path stroke="#000000" fill="#000000" stroke-width="0.050"  d="M 16.400,19.700 C 16.438,19.700 16.475,19.737 16.475,19.775 C 16.475,19.812 16.438,19.850 16.400,19.850 C 16.362,19.850 16.325,19.812 16.325,19.775 C 16.325,19.737 16.362,19.700 16.400,19.700 z"/>
+<path stroke="#000000" fill="#000000" stroke-width="0.050"  d="M 16.400,21.600 C 16.362,21.600 16.325,21.563 16.325,21.525 C 16.325,21.488 16.362,21.450 16.400,21.450 C 16.438,21.450 16.475,21.488 16.475,21.525 C 16.475,21.563 16.438,21.600 16.400,21.600 z"/>
+<!-- Standard - Line -->
+<line x1="15.200" y1="19.600" x2="15.900" y2="20.200" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10" stroke-linecap="round"/>
+<!-- Standard - Line -->
+<line x1="15.600" y1="15.606" x2="15.600" y2="22.194" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="15.600,15.456 15.700,15.656 15.600,15.606 15.500,15.656 "/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="15.600,22.344 15.500,22.144 15.600,22.194 15.700,22.144 "/>
+<!-- Standard - Line -->
+<line x1="15.800" y1="15.400" x2="18.010" y2="16.321" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="18.148,16.378 17.925,16.394 18.010,16.321 18.002,16.209 "/>
+<!-- Standard - Line -->
+<line x1="15.200" y1="15.400" x2="15.900" y2="22.400" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10" stroke-linecap="round"/>
+<!-- Standard - Line -->
+<line x1="18.200" y1="16.600" x2="15.200" y2="15.400" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10" stroke-linecap="round"/>
+<!-- Standard - Line -->
+<line x1="18.900" y1="17.200" x2="15.900" y2="22.400" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10" stroke-linecap="round"/>
+<!-- Standard - Text -->
+<text x="14.800" y="19.000"  fill="#000000" text-anchor="start" font-size="0.35" font-family="sans" font-style="normal" font-weight="400">
+(1)</text>
+<!-- Standard - Text -->
+<text x="17.200" y="15.600"  fill="#000000" text-anchor="start" font-size="0.35" font-family="sans" font-style="normal" font-weight="400">
+(2)</text>
+<!-- Standard - Text -->
+<text x="16.800" y="16.800"  fill="#000000" text-anchor="start" font-size="0.35" font-family="sans" font-style="normal" font-weight="400">
+(3)</text>
+</g>
+</svg>

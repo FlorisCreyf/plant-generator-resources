@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="5.500cm" height="5.285cm" viewBox="1.750 -2.450 5.500 5.285"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Layer: Background -->
+<g id="Background">
+<!-- Standard - Line -->
+<line x1="2.000" y1="2.000" x2="6.000" y2="2.000" stroke="#000000" stroke-width="0.050" />
+<!-- Standard - Line -->
+<line x1="2.000" y1="2.000" x2="3.400" y2="1.200" stroke="#000000" stroke-width="0.050" />
+<!-- Standard - Line -->
+<line x1="3.400" y1="1.200" x2="5.400" y2="-0.200" stroke="#000000" stroke-width="0.050" />
+<!-- Standard - Line -->
+<line x1="5.400" y1="-0.200" x2="6.871" y2="-2.039" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="6.965,-2.156 6.918,-1.938 6.871,-2.039 6.762,-2.063 "/>
+<!-- Standard - Line -->
+<line x1="3.400" y1="1.400" x2="3.400" y2="1.794" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="3.400,1.944 3.300,1.744 3.400,1.794 3.500,1.744 "/>
+<!-- Standard - Line -->
+<line x1="5.500" y1="0.000" x2="5.500" y2="1.794" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="5.500,1.944 5.400,1.744 5.500,1.794 5.600,1.744 "/>
+<!-- Standard - Line -->
+<line x1="7.000" y1="-2.000" x2="7.000" y2="1.794" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="7.000,1.944 6.900,1.744 7.000,1.794 7.100,1.744 "/>
+<!-- Standard - Line -->
+<line x1="3.800" y1="1.800" x2="5.400" y2="-0.200" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
+<!-- Standard - Line -->
+<line x1="5.800" y1="1.800" x2="4.758" y2="0.932" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="4.643,0.836 4.861,0.887 4.758,0.932 4.733,1.041 "/>
+<!-- Geometric - Perfect Circle -->
+<ellipse cx="2.000" cy="2.000" rx="0.200" ry="0.200" fill="none" stroke="#000000"  stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
+<!-- Geometric - Perfect Circle -->
+<ellipse cx="3.400" cy="1.200" rx="0.200" ry="0.200" fill="none" stroke="#000000"  stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
+<!-- Geometric - Perfect Circle -->
+<ellipse cx="5.400" cy="-0.200" rx="0.200" ry="0.200" fill="none" stroke="#000000"  stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
+<!-- Geometric - Perfect Circle -->
+<ellipse cx="7.000" cy="-2.200" rx="0.200" ry="0.200" fill="none" stroke="#000000"  stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
+<!-- Geometric - Perfect Circle -->
+<ellipse cx="6.000" cy="2.000" rx="0.200" ry="0.200" fill="none" stroke="#000000"  stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
+<!-- Standard - Text -->
+<text x="3.200" y="0.600"  fill="#000000" text-anchor="start" font-size="0.35" font-family="sans" font-style="normal" font-weight="400">
+(1)</text>
+<!-- Standard - Text -->
+<text x="5.000" y="-0.600"  fill="#000000" text-anchor="start" font-size="0.35" font-family="sans" font-style="normal" font-weight="400">
+(2)</text>
+<!-- Standard - Text -->
+<text x="6.200" y="-2.000"  fill="#000000" text-anchor="start" font-size="0.35" font-family="sans" font-style="normal" font-weight="400">
+(3)</text>
+<!-- Standard - Text -->
+<text x="5.600" y="2.600"  fill="#000000" text-anchor="start" font-size="0.35" font-family="sans" font-style="normal" font-weight="400">
+(4)</text>
+<!-- Standard - Line -->
+<line x1="6.000" y1="2.000" x2="7.029" y2="2.686" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="7.153,2.769 6.932,2.741 7.029,2.686 7.043,2.575 "/>
+<!-- Standard - Line -->
+<line x1="6.000" y1="2.000" x2="7.200" y2="2.000" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
+</g>
+</svg>

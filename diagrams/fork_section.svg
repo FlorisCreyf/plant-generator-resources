@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="7.875cm" height="2.850cm" viewBox="3.475 -1.425 7.875 2.850"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Layer: Background -->
+<g id="Background">
+<!-- Geometric - Perfect Circle -->
+<ellipse cx="9.600" cy="0.000" rx="1.000" ry="1.000" fill="none" stroke="#000000"  stroke-width="0.050" />
+<!-- Standard - Line -->
+<line x1="9.600" y1="-1.400" x2="9.600" y2="1.400" stroke="#000000" stroke-width="0.050" />
+<!-- Standard - Line -->
+<line x1="8.200" y1="0.000" x2="11.000" y2="0.000" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
+<!-- Standard - Line -->
+<line x1="8.600" y1="-1.000" x2="10.600" y2="1.000" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
+<!-- Standard - Line -->
+<line x1="8.600" y1="1.000" x2="10.600" y2="-1.000" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
+<!-- Geometric - Perfect Circle -->
+<ellipse cx="11.200" cy="-0.000" rx="0.100" ry="0.100" fill="#888888" stroke="#000000"  stroke-width="0.050" />
+<!-- Geometric - Perfect Circle -->
+<ellipse cx="8.000" cy="-0.000" rx="0.100" ry="0.100" fill="#888888" stroke="#000000"  stroke-width="0.050" />
+<!-- Geometric - Perfect Circle -->
+<ellipse cx="4.900" cy="0.000" rx="1.000" ry="1.000" fill="none" stroke="#000000"  stroke-width="0.050" />
+<!-- Standard - Line -->
+<line x1="4.900" y1="-1.400" x2="4.900" y2="1.400" stroke="#000000" stroke-width="0.050" />
+<!-- Standard - Line -->
+<line x1="3.500" y1="0.000" x2="6.300" y2="0.000" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
+<!-- Standard - Line -->
+<line x1="3.900" y1="-1.000" x2="5.900" y2="1.000" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
+<!-- Standard - Line -->
+<line x1="3.900" y1="1.000" x2="5.900" y2="-1.000" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
+<!-- Geometric - Perfect Circle -->
+<ellipse cx="6.500" cy="-0.000" rx="0.100" ry="0.100" fill="#888888" stroke="#000000"  stroke-width="0.050" />
+<!-- Geometric - Perfect Circle -->
+<ellipse cx="6.800" cy="-0.000" rx="0.100" ry="0.100" fill="#888888" stroke="#000000"  stroke-width="0.050" />
+<!-- Geometric - Right Arrow -->
+<polygon fill="#888888" stroke="#000000" stroke-width="0.050"  points="7.000,-0.450 7.400,-0.450 7.400,-0.900 7.800,0.000 7.400,0.900 7.400,0.450 7.000,0.450 "/>
+</g>
+</svg>

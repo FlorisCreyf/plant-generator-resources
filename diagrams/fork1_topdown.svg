@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="7.250cm" height="2.057cm" viewBox="10.775 10.971 7.250 2.057"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Layer: Background -->
+<g id="Background">
+<!-- Flowchart - Diamond -->
+<polygon fill="#888888" stroke="#000000" stroke-width="0.050"  points="12.000,11.000 13.000,12.000 12.000,13.000 11.000,12.000 "/>
+<text x="12.000" y="12.086"  fill="#000000" text-anchor="middle" font-size="0.35" font-family="sans" font-style="normal" font-weight="400">
+C1</text>
+<!-- Flowchart - Diamond -->
+<polygon fill="#888888" stroke="#000000" stroke-width="0.050"  points="17.000,11.000 18.000,12.000 17.000,13.000 16.000,12.000 "/>
+<text x="17.000" y="12.086"  fill="#000000" text-anchor="middle" font-size="0.35" font-family="sans" font-style="normal" font-weight="400">
+C2</text>
+<!-- Flowchart - Diamond -->
+<polygon fill="#888888" stroke="#000000" stroke-width="0.050"  points="14.500,11.400 15.000,12.007 14.500,12.614 14.000,12.007 "/>
+<text x="14.500" y="12.093"  fill="#000000" text-anchor="middle" font-size="0.35" font-family="sans" font-style="normal" font-weight="400">
+P</text>
+<!-- Standard - Line -->
+<line x1="13.000" y1="12.000" x2="14.000" y2="12.007" stroke="#000000" stroke-width="0.050" />
+<!-- Standard - Line -->
+<line x1="15.000" y1="12.007" x2="16.000" y2="12.000" stroke="#000000" stroke-width="0.050" />
+<!-- Standard - Line -->
+<line x1="12.000" y1="11.000" x2="14.500" y2="11.400" stroke="#000000" stroke-width="0.050" />
+<!-- Standard - Line -->
+<line x1="12.000" y1="13.000" x2="14.500" y2="12.614" stroke="#000000" stroke-width="0.050" />
+<!-- Standard - Line -->
+<line x1="17.000" y1="11.000" x2="14.500" y2="11.400" stroke="#000000" stroke-width="0.050" />
+<!-- Standard - Line -->
+<line x1="14.500" y1="12.614" x2="17.000" y2="13.000" stroke="#000000" stroke-width="0.050" />
+<!-- Flowchart - Ellipse -->
+<ellipse cx="15.000" cy="12.000" rx="0.200" ry="0.200" fill="none" stroke="#000000"  stroke-width="0.050" />
+<!-- Flowchart - Ellipse -->
+<ellipse cx="10.988" cy="12.000" rx="0.188" ry="0.200" fill="none" stroke="#000000"  stroke-width="0.050" />
+<!-- Flowchart - Ellipse -->
+<ellipse cx="16.000" cy="12.000" rx="0.200" ry="0.200" fill="none" stroke="#000000"  stroke-width="0.050" />
+</g>
+</svg>

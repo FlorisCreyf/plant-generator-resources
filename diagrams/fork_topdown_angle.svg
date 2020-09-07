@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="4.181cm" height="4.181cm" viewBox="8.844 -4.025 4.181 4.181"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Layer: Background -->
+<g id="Background">
+<!-- Standard - Line -->
+<line x1="9.000" y1="0.000" x2="9.000" y2="-3.794" stroke="#000000" stroke-width="0.050"  stroke-linecap="round"/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="9.000,-3.944 9.100,-3.744 9.000,-3.794 8.900,-3.744 "/>
+<!-- Standard - Line -->
+<line x1="9.000" y1="0.000" x2="12.794" y2="0.000" stroke="#000000" stroke-width="0.050"  stroke-linecap="round"/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="12.944,0.000 12.744,0.100 12.794,0.000 12.744,-0.100 "/>
+<!-- Standard - Arc -->
+<path stroke="#000000" fill="none" stroke-width="0.050"  d ="M 12.000,-0.000 A 3.000,3.000 0 0,0 9.000,-3.000 "/>
+<!-- Standard - Line -->
+<line x1="9.000" y1="0.000" x2="11.854" y2="-2.854" stroke="#000000" stroke-width="0.050"  stroke-linecap="round"/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="11.960,-2.960 11.890,-2.748 11.854,-2.854 11.748,-2.890 "/>
+<!-- Standard - Line -->
+<line x1="9.000" y1="0.000" x2="11.093" y2="-3.424" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10" stroke-linecap="round"/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="11.171,-3.552 11.152,-3.329 11.093,-3.424 10.981,-3.434 "/>
+<!-- Standard - Line -->
+<line x1="11.000" y1="-3.000" x2="11.254" y2="-2.746" stroke="#000000" stroke-width="0.050" />
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="11.360,-2.640 11.148,-2.710 11.254,-2.746 11.290,-2.852 "/>
+<!-- Standard - Text -->
+<text x="10.200" y="-3.000"  fill="#000000" text-anchor="start" font-size="0.35" font-family="sans" font-style="normal" font-weight="400">
+(a)</text>
+<!-- Standard - Text -->
+<text x="11.600" y="-2.000"  fill="#000000" text-anchor="start" font-size="0.35" font-family="sans" font-style="normal" font-weight="400">
+(b)</text>
+</g>
+</svg>

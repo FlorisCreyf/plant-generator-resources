@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="5.272cm" height="4.450cm" viewBox="-4.100 -2.225 5.272 4.450"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Layer: Background -->
+<g id="Background">
+<!-- Standard - Polygon -->
+<polygon fill="#888888" stroke="#000000" stroke-width="0.001" stroke-dasharray="0.00,0.00" stroke-linejoin="bevel" points="-1.500,-1.000 -1.000,-1.170 -1.000,0.500 "/>
+<!-- Standard - Line -->
+<line x1="-2.905" y1="-0.135" x2="-0.100" y2="0.800" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10" stroke-linejoin="bevel" stroke-linecap="round"/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="-3.047,-0.182 -2.826,-0.214 -2.905,-0.135 -2.889,-0.024 "/>
+<!-- Standard - Line -->
+<line x1="-1.900" y1="0.800" x2="0.905" y2="-0.135" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10" stroke-linecap="round"/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="1.047,-0.182 0.889,-0.024 0.905,-0.135 0.826,-0.214 "/>
+<!-- Standard - Line -->
+<line x1="-2.700" y1="1.600" x2="-1.500" y2="2.000" stroke="#000000" stroke-width="0.050"  stroke-linecap="round"/>
+<!-- Standard - Line -->
+<line x1="-1.700" y1="-1.400" x2="-0.500" y2="-1.000" stroke="#000000" stroke-width="0.050"  stroke-linecap="round"/>
+<!-- Standard - Line -->
+<line x1="-0.500" y1="-1.000" x2="-1.500" y2="2.000" stroke="#000000" stroke-width="0.050"  stroke-linecap="round"/>
+<!-- Standard - Line -->
+<line x1="-1.500" y1="-1.000" x2="-0.500" y2="2.000" stroke="#000000" stroke-width="0.050"  stroke-linecap="round"/>
+<!-- Standard - Line -->
+<line x1="-0.500" y1="2.000" x2="0.700" y2="1.600" stroke="#000000" stroke-width="0.050"  stroke-linecap="round"/>
+<!-- Standard - Line -->
+<line x1="-1.500" y1="-1.000" x2="-0.300" y2="-1.400" stroke="#000000" stroke-width="0.050"  stroke-linecap="round"/>
+<!-- Standard - Arc -->
+<path stroke="#000000" fill="none" stroke-width="0.050" stroke-dasharray="0.10,0.10" d ="M -0.600,-1.300 A 0.500,0.500 0 0,0 -1.400,-1.300 "/>
+<!-- Standard - Line -->
+<line x1="-1.000" y1="2.200" x2="-1.000" y2="-1.994" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="-1.000,-2.144 -0.900,-1.944 -1.000,-1.994 -1.100,-1.944 "/>
+<!-- Standard - Text -->
+<text x="-0.200" y="-0.700"  fill="#000000" text-anchor="start" font-size="0.35" font-family="sans" font-style="normal" font-weight="400">
+radius</text>
+<!-- Standard - Text -->
+<text x="0.300" y="0.800"  fill="#000000" text-anchor="start" font-size="0.35" font-family="sans" font-style="normal" font-weight="400">
+radius</text>
+<!-- Standard - Line -->
+<line x1="-0.600" y1="-1.300" x2="0.400" y2="1.700" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10" stroke-linecap="round"/>
+<!-- Standard - Line -->
+<line x1="-1.400" y1="-1.300" x2="-2.400" y2="1.700" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10" stroke-linecap="round"/>
+<!-- Standard - Text -->
+<text x="-4.100" y="0.600"  fill="#000000" text-anchor="start" font-size="0.35" font-family="sans" font-style="normal" font-weight="400">
+overlap</text>
+<text x="-4.100" y="0.953"  fill="#000000" text-anchor="start" font-size="0.35" font-family="sans" font-style="normal" font-weight="400">
+boundary</text>
+</g>
+</svg>
