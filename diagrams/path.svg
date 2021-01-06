@@ -1,59 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created by diasvg.py -->
-<svg width="5.500cm" height="5.285cm" viewBox="1.750 -2.450 5.500 5.285"
- xmlns="http://www.w3.org/2000/svg"
- xmlns:xlink="http://www.w3.org/1999/xlink">
-<!-- Layer: Background -->
-<g id="Background">
-<!-- Standard - Line -->
-<line x1="2.000" y1="2.000" x2="6.000" y2="2.000" stroke="#000000" stroke-width="0.050" />
-<!-- Standard - Line -->
-<line x1="2.000" y1="2.000" x2="3.400" y2="1.200" stroke="#000000" stroke-width="0.050" />
-<!-- Standard - Line -->
-<line x1="3.400" y1="1.200" x2="5.400" y2="-0.200" stroke="#000000" stroke-width="0.050" />
-<!-- Standard - Line -->
-<line x1="5.400" y1="-0.200" x2="6.871" y2="-2.039" stroke="#000000" stroke-width="0.050" />
-<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="6.965,-2.156 6.918,-1.938 6.871,-2.039 6.762,-2.063 "/>
-<!-- Standard - Line -->
-<line x1="3.400" y1="1.400" x2="3.400" y2="1.794" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
-<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="3.400,1.944 3.300,1.744 3.400,1.794 3.500,1.744 "/>
-<!-- Standard - Line -->
-<line x1="5.500" y1="0.000" x2="5.500" y2="1.794" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
-<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="5.500,1.944 5.400,1.744 5.500,1.794 5.600,1.744 "/>
-<!-- Standard - Line -->
-<line x1="7.000" y1="-2.000" x2="7.000" y2="1.794" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
-<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="7.000,1.944 6.900,1.744 7.000,1.794 7.100,1.744 "/>
-<!-- Standard - Line -->
-<line x1="3.800" y1="1.800" x2="5.400" y2="-0.200" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
-<!-- Standard - Line -->
-<line x1="5.800" y1="1.800" x2="4.758" y2="0.932" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
-<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="4.643,0.836 4.861,0.887 4.758,0.932 4.733,1.041 "/>
-<!-- Geometric - Perfect Circle -->
-<ellipse cx="2.000" cy="2.000" rx="0.200" ry="0.200" fill="none" stroke="#000000"  stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
-<!-- Geometric - Perfect Circle -->
-<ellipse cx="3.400" cy="1.200" rx="0.200" ry="0.200" fill="none" stroke="#000000"  stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
-<!-- Geometric - Perfect Circle -->
-<ellipse cx="5.400" cy="-0.200" rx="0.200" ry="0.200" fill="none" stroke="#000000"  stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
-<!-- Geometric - Perfect Circle -->
-<ellipse cx="7.000" cy="-2.200" rx="0.200" ry="0.200" fill="none" stroke="#000000"  stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
-<!-- Geometric - Perfect Circle -->
-<ellipse cx="6.000" cy="2.000" rx="0.200" ry="0.200" fill="none" stroke="#000000"  stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
-<!-- Standard - Text -->
-<text x="3.200" y="0.600"  fill="#000000" text-anchor="start" font-size="0.35" font-family="sans" font-style="normal" font-weight="400">
-(1)</text>
-<!-- Standard - Text -->
-<text x="5.000" y="-0.600"  fill="#000000" text-anchor="start" font-size="0.35" font-family="sans" font-style="normal" font-weight="400">
-(2)</text>
-<!-- Standard - Text -->
-<text x="6.200" y="-2.000"  fill="#000000" text-anchor="start" font-size="0.35" font-family="sans" font-style="normal" font-weight="400">
-(3)</text>
-<!-- Standard - Text -->
-<text x="5.600" y="2.600"  fill="#000000" text-anchor="start" font-size="0.35" font-family="sans" font-style="normal" font-weight="400">
-(4)</text>
-<!-- Standard - Line -->
-<line x1="6.000" y1="2.000" x2="7.029" y2="2.686" stroke="#000000" stroke-width="0.050" />
-<polygon fill="#000000" stroke="#000000" stroke-width="0.050"  points="7.153,2.769 6.932,2.741 7.029,2.686 7.043,2.575 "/>
-<!-- Standard - Line -->
-<line x1="6.000" y1="2.000" x2="7.200" y2="2.000" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
-</g>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="6cm" height="6cm" viewBox="35 -49 110 101" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Background">
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="68" y1="24" x2="68" y2="35.882"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="68,38.882 66,34.882 68,35.882 70,34.882 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="108" y1="-4" x2="108" y2="35.882"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="108,38.882 106,34.882 108,35.882 110,34.882 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="140" y1="-44" x2="140" y2="35.882"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="140,38.882 138,34.882 140,35.882 142,34.882 "/>
+    </g>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="88" y1="20" x2="108" y2="-4"/>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="120" y1="40" x2="95.1266" y2="18.68"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="92.8489,16.7276 97.1875,17.8123 95.1266,18.68 94.5843,20.8493 "/>
+    </g>
+    <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" d="M 40 36 C 42.2,36 44,37.8 44,40 C 44,42.2 42.2,44 40,44 C 37.8,44 36,42.2 36,40 C 36,37.8 37.8,36 40,36"/>
+    <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" d="M 68 20 C 70.2,20 72,21.8 72,24 C 72,26.2 70.2,28 68,28 C 65.8,28 64,26.2 64,24 C 64,21.8 65.8,20 68,20"/>
+    <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" d="M 108 -8 C 110.2,-8 112,-6.2 112,-4 C 112,-1.8 110.2,6.66134e-15 108,6.66134e-15 C 105.8,6.66134e-15 104,-1.8 104,-4 C 104,-6.2 105.8,-8 108,-8"/>
+    <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" d="M 140 -48 C 142.2,-48 144,-46.2 144,-44 C 144,-41.8 142.2,-40 140,-40 C 137.8,-40 136,-41.8 136,-44 C 136,-46.2 137.8,-48 140,-48"/>
+    <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" d="M 120 36 C 122.2,36 124,37.8 124,40 C 124,42.2 122.2,44 120,44 C 117.8,44 116,42.2 116,40 C 116,37.8 117.8,36 120,36"/>
+    <text font-size="5.64444" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="64" y="12">
+      <tspan x="64" y="12">(1)</tspan>
+    </text>
+    <text font-size="5.64444" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="100" y="-12">
+      <tspan x="100" y="-12">(2)</tspan>
+    </text>
+    <text font-size="5.64444" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="124" y="-40">
+      <tspan x="124" y="-40">(3)</tspan>
+    </text>
+    <text font-size="5.64444" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="116" y="30">
+      <tspan x="116" y="30">(4)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="120" y1="40" x2="144" y2="40"/>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" points="40,40 68,24 108,-4 137.427,-40.7844 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="139.302,-43.127 138.365,-38.7541 137.427,-40.7844 135.241,-41.2529 "/>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" points="40,40 120,40 120,47.882 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="120,50.882 118,46.882 120,47.882 122,46.882 "/>
+    </g>
+  </g>
 </svg>
