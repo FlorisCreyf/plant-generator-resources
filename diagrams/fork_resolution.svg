@@ -1,35 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created by diasvg.py -->
-<svg width="6.375cm" height="2.850cm" viewBox="4.975 -1.425 6.375 2.850"
- xmlns="http://www.w3.org/2000/svg"
- xmlns:xlink="http://www.w3.org/1999/xlink">
-<!-- Layer: Background -->
-<g id="Background">
-<!-- Standard - Arc -->
-<path stroke="#000000" fill="none" stroke-width="0.050"  d ="M 10.800,-1.000 A 1.450,1.450 0 0,1 10.800,1.000 "/>
-<!-- Geometric - Perfect Circle -->
-<ellipse cx="11.200" cy="-0.000" rx="0.100" ry="0.100" fill="#888888" stroke="#000000"  stroke-width="0.050" />
-<!-- Standard - Arc -->
-<path stroke="#000000" fill="none" stroke-width="0.050"  d ="M 7.850,-0.600 A 1.342,1.342 0 0,1 7.850,0.600 "/>
-<!-- Geometric - Perfect Circle -->
-<ellipse cx="9.600" cy="0.000" rx="1.000" ry="1.000" fill="none" stroke="#000000"  stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
-<!-- Standard - Line -->
-<line x1="9.600" y1="-1.400" x2="9.600" y2="1.400" stroke="#000000" stroke-width="0.050" />
-<!-- Standard - Line -->
-<line x1="8.400" y1="1.000" x2="10.800" y2="-1.000" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
-<!-- Standard - Line -->
-<line x1="8.400" y1="-1.000" x2="10.800" y2="1.000" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
-<!-- Geometric - Perfect Circle -->
-<ellipse cx="6.400" cy="0.000" rx="1.000" ry="1.000" fill="none" stroke="#000000"  stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
-<!-- Standard - Line -->
-<line x1="6.400" y1="-1.400" x2="6.400" y2="1.400" stroke="#000000" stroke-width="0.050" />
-<!-- Standard - Line -->
-<line x1="5.000" y1="0.000" x2="7.800" y2="0.000" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
-<!-- Standard - Line -->
-<line x1="5.400" y1="-1.000" x2="7.400" y2="1.000" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
-<!-- Standard - Line -->
-<line x1="5.400" y1="1.000" x2="7.400" y2="-1.000" stroke="#000000" stroke-width="0.050" stroke-dasharray="0.10,0.10"/>
-<!-- Geometric - Perfect Circle -->
-<ellipse cx="8.000" cy="-0.000" rx="0.100" ry="0.100" fill="#888888" stroke="#000000"  stroke-width="0.050" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="161pt" height="75pt" viewBox="0 0 161 75" version="1.1">
+<g id="surface9402">
+<rect x="0" y="0" width="161" height="75" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
+<path style="fill:none;stroke-width:0.06;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 12.800078 2.200078 C 13.026445 2.709258 13.026445 3.290703 12.800078 3.800078 " transform="matrix(20,0,0,20,-182.4,-22.4)"/>
+<path style="fill:none;stroke-width:0.06;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-dasharray:0.1,0.1;stroke-miterlimit:10;" d="M 12.200078 3.000078 C 12.200078 3.662773 11.662773 4.200078 11.000078 4.200078 C 10.337188 4.200078 9.800078 3.662773 9.800078 3.000078 C 9.800078 2.337188 10.337188 1.800078 11.000078 1.800078 C 11.662773 1.800078 12.200078 2.337188 12.200078 3.000078 " transform="matrix(20,0,0,20,-182.4,-22.4)"/>
+<path style="fill:none;stroke-width:0.06;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 11.000078 1.200078 L 11.000078 4.800078 " transform="matrix(20,0,0,20,-182.4,-22.4)"/>
+<path style="fill:none;stroke-width:0.06;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-dasharray:0.1,0.1;stroke-miterlimit:10;" d="M 9.200078 3.000078 L 12.800078 3.000078 " transform="matrix(20,0,0,20,-182.4,-22.4)"/>
+<path style="fill:none;stroke-width:0.06;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-dasharray:0.1,0.1;stroke-miterlimit:10;" d="M 9.600078 1.600078 L 12.400078 4.400078 " transform="matrix(20,0,0,20,-182.4,-22.4)"/>
+<path style="fill:none;stroke-width:0.06;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-dasharray:0.1,0.1;stroke-miterlimit:10;" d="M 9.600078 4.400078 L 12.400078 1.600078 " transform="matrix(20,0,0,20,-182.4,-22.4)"/>
+<path style="fill-rule:evenodd;fill:rgb(53.333336%,53.333336%,53.333336%);fill-opacity:1;stroke-width:0.06;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 13.100078 3.000078 C 13.100078 3.133281 12.900078 3.133281 12.900078 3.000078 C 12.900078 2.86668 13.100078 2.86668 13.100078 3.000078 " transform="matrix(20,0,0,20,-182.4,-22.4)"/>
+<path style="fill:none;stroke-width:0.06;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 16.600078 1.800078 C 17.133281 2.511016 17.133281 3.488945 16.600078 4.200078 " transform="matrix(20,0,0,20,-182.4,-22.4)"/>
+<path style="fill:none;stroke-width:0.06;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-dasharray:0.1,0.1;stroke-miterlimit:10;" d="M 16.200078 3.000078 C 16.200078 3.662773 15.662773 4.200078 15.000078 4.200078 C 14.337188 4.200078 13.800078 3.662773 13.800078 3.000078 C 13.800078 2.337188 14.337188 1.800078 15.000078 1.800078 C 15.662773 1.800078 16.200078 2.337188 16.200078 3.000078 " transform="matrix(20,0,0,20,-182.4,-22.4)"/>
+<path style="fill:none;stroke-width:0.06;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 15.000078 1.200078 L 15.000078 4.800078 " transform="matrix(20,0,0,20,-182.4,-22.4)"/>
+<path style="fill:none;stroke-width:0.06;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-dasharray:0.1,0.1;stroke-miterlimit:10;" d="M 13.400078 1.800078 L 16.600078 4.200078 " transform="matrix(20,0,0,20,-182.4,-22.4)"/>
+<path style="fill:none;stroke-width:0.06;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-dasharray:0.1,0.1;stroke-miterlimit:10;" d="M 13.400078 4.200078 L 16.600078 1.800078 " transform="matrix(20,0,0,20,-182.4,-22.4)"/>
+<path style="fill-rule:evenodd;fill:rgb(53.333336%,53.333336%,53.333336%);fill-opacity:1;stroke-width:0.06;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 17.100078 3.000078 C 17.100078 3.133281 16.900078 3.133281 16.900078 3.000078 C 16.900078 2.86668 17.100078 2.86668 17.100078 3.000078 " transform="matrix(20,0,0,20,-182.4,-22.4)"/>
 </g>
 </svg>
